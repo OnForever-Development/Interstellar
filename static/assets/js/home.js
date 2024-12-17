@@ -176,8 +176,8 @@ const SplashT = [
   "another URL is https://interstellarremake.vercel.app!",
   "Hosted by Noah and Chez, 7th grade students",
   "Thank you for using.",
-  "Also check out doge: https://dogeremake.vercel.app",
-  "Also check out Seraph: https://seraphremake.vercel.app",
+  "hunter is gay",
+  "Also check out Seraph: https://seraphremake.com",
   "Check out some of the games!",
 ];
 
